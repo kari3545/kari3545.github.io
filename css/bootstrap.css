@@ -103,6 +103,8 @@ sub {
 
 img {
   border: 0;
+  aspect-ratio: 16 / 9;
+  object-fit: cover;
 }
 
 svg:not(:root) {
@@ -367,9 +369,6 @@ img {
 
 .img-responsive {
   display: block;
-  max-width: 100%;
-  aspect-ratio: 16 / 9;
-  object-fit: cover;
 }
 
 .img-rounded {
