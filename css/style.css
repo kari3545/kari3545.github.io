@@ -107,6 +107,11 @@ figure {
 #fh5co-aside #fh5co-logo {
   text-align: center;
 }
+#fh5co-logo img
+{
+  max-width:100%;
+  object-fit: contain;
+}
 #fh5co-aside #fh5co-main-menu ul {
   text-align: center;
   margin: 0;
