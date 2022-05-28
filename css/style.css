@@ -287,7 +287,7 @@ body.offcanvas #fh5co-main, body.offcanvas .fh5co-nav-toggle {
   -o-transition: 0.5s;
   transition: 0.5s;
   width: 100%;
-  aspect-ratio: 16 / 9;
+  height: 180px;
   object-fit: cover;
 }
 .work-item a h3 {
