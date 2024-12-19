@@ -1496,7 +1496,8 @@ input, select, textarea {
 	}
 
 		.image:hover {
-			opacity: 0.9;
+			opacity: 0.75;
+			border: solid 6px #dcdcdc !important;
 		}
 
 		.image img {
