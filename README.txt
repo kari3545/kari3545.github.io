@@ -1,57 +1,37 @@
-
-TITLE: 
-Nitro - Fully Responsive Free HTML5 template
-
-AUTHOR:
-DESIGNED & DEVELOPED by FREEHTML5.co
-
-Website: http://freehtml5.co/
-Twitter: http://twitter.com/fh5co
-Facebook: http://facebook.com/fh5co
+Strongly Typed by HTML5 UP
+html5up.net | @ajlkn
+Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 
 
-CREDITS:
+This is Strongly Typed, a new site template with a minimal, semi-retro
+look (inspired by old instruction manuals) and, as you might guess from its
+name, a strong emphasis on type. It's fully responsive, built on HTML5/CSS3,
+and includes styling for all basic page elements. Demo images* are courtesy of
+regularjane, an incredibly talented photographer friend of mine. Be sure to
+check out more of her work over at deviantART:
 
-Bootstrap
-http://getbootstrap.com/
+http://regularjane.deviantart.com/
 
-jQuery
-http://jquery.com/
+(* = Not included! Only meant for use with my own on-site demo, so please do NOT download
+and/or use any of Jane's work without her explicit permission!)
 
-jQuery Easing
-http://gsgd.co.uk/sandbox/jquery/easing/
+As usual, feedback, bug reports, and comments are not only welcome, but strongly
+encouraged :)
 
-Modernizr
-http://modernizr.com/
+AJ
+aj@lkn.io | @ajlkn
 
-Google Fonts
-https://www.google.com/fonts/
+PS: Not sure how to get that contact form working? Give formspree.io a try (it's awesome).
 
-Icomoon
-https://icomoon.io/app/
 
-Respond JS
-https://github.com/scottjehl/Respond/blob/master/LICENSE-MIT
+Credits:
 
-animate.css
-http://daneden.me/animate
+	Demo Images:
+		regularjane (regularjane.deviantart.com)
 
-jQuery Waypoints
-https://github.com/imakewebthings/waypoints/blog/master/licenses.txt
+	Icons:
+		Font Awesome (fontawesome.io)
 
-Demo Images:
-http://unsplash.com
-http://plmd.me/
-
-Owl Carousel
-http://www.owlcarousel.owlgraphic.com/
-
-Stellar Parallax
-http://markdalgleish.com/projects/stellar.js/
-
-jQuery counTo
-https://github.com/mhuggins/jquery-countTo
-
-Google Map
-https://maps.google.com/
-
+	Other:
+		jQuery (jquery.com)
+		Responsive Tools (github.com/ajlkn/responsive-tools)
